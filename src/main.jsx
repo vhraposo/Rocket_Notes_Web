@@ -7,10 +7,10 @@ import GlobalStyles from './styles/global'
 import theme from './styles/theme'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-  <React.StrictMode> 
-    <ThemeProvider theme={ theme }>
+  <React.StrictMode>
+    <ThemeProvider theme={theme}>
       <GlobalStyles />
       <Details />
-    </ThemeProvider>  
-  </React.StrictMode>
+    </ThemeProvider>
+  </React.StrictMode>,
 )
