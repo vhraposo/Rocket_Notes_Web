@@ -39,20 +39,21 @@ npm run dev
 4 - Abra seu navegador da web e visite http://localhost:3000 para acessar o RocketNotes.
 
 ## Scripts Disponíveis
-🚀 npm run dev - Inicia o servidor de desenvolvimento.
-🏗️ npm run build - Gera a versão pronta para produção do RocketNotes.
-🔍 npm run lint - Faz a análise de código em seus arquivos JavaScript e JSX usando o ESLint.
-📝 npm run preview - Pré-visualiza a versão de produção localmente.
+🚀 npm run dev - Inicia o servidor de desenvolvimento. <br>
+🏗️ npm run build - Gera a versão pronta para produção do RocketNotes. <br>
+🔍 npm run lint - Faz a análise de código em seus arquivos JavaScript e JSX usando o ESLint. <br>
+📝 npm run preview - Pré-visualiza a versão de produção localmente. <br>
 
 ## Estrutura de Pastas
-📂 src - Contém o código-fonte do aplicativo.
-📁 components - Componentes React reutilizáveis.
-📁 pages - Páginas do aplicativo.
-📁 styles - Componentes estilizados e estilos globais.
-📄 package.json - Configuração do projeto e dependências.
+📂 src - Contém o código-fonte do aplicativo. <br>
+📁 components - Componentes React reutilizáveis. <br>
+📁 pages - Páginas do aplicativo. <br>
+📁 styles - Componentes estilizados e estilos globais. <br>
+📄 package.json - Configuração do projeto e dependências. <br>
 
-##Colaboradores
-🚀 Seu Nome - Seu Perfil no GitHub
+## Colaboradores
+🚀 Sinta-se à vontade para entrar em contato se tiver alguma dúvida ou sugestão. Boas anotações com o RocketNotes! 🚀📝✨
+
 
 ## Licença
 Este projeto está licenciado sob a Licença MIT - consulte o arquivo LICENSE para obter detalhes.
