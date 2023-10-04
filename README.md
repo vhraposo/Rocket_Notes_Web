@@ -10,6 +10,14 @@ RocketNotes é um poderoso aplicativo de anotações que permite organizar seus 
 - 🌐 [React Router](https://reactrouter.com/) - Uma biblioteca popular para lidar com roteamento em aplicativos React.
 - 💅 [Styled Components](https://styled-components.com/) - Uma biblioteca para estilizar componentes React com literais de modelo marcados.
 
+
+## Preview
+![image](https://github.com/vhraposo/Rocket_Notes_Web/assets/69219137/40724b54-2bfe-454a-b5c3-9b4ba4586607)
+
+## Figma do projeto
+[Clique aqui para ver o layout do projeto](https://www.figma.com/file/hQXeWPtUzl66xHQbrB4qSI/RocketNotes-(Copy)?type=design&node-id=0%3A1&mode=design&t=xm8reUHHK2qxrwTo-1)
+
+
 ## Começando
 
 Siga estas etapas para executar o RocketNotes em sua máquina local.
