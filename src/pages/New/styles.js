@@ -10,7 +10,7 @@ export const Container = styled.div`
     "header"
     "content";
 
-    > maing{
+    > main{
         grid-area: content;
         overflow-y: auto;
     }
