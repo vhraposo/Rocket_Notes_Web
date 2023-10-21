@@ -26,7 +26,7 @@ export function Profile(){
     const avatarUrl = user.avatar ? `${api.defaults.baseURL}/files/${user.avatar}` : avatarPlaceholder
 
     const [avatar, setAvatar] = useState(avatarUrl)
-    const [avatarFile, setAvatarFile] = useState(null)
+    const [avatarFile, setAvatarFile] = useState("")
 
     const navigate = useNavigate()
 
